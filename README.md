@@ -4,7 +4,7 @@ SplitBill is a smart and simple app that helps you fairly split bills among frie
 
 # 🚀 Features
 
-✅ Itemized Bill Splitting: Enter what each person ordered—no more dividing bills evenly when some ordered more.
+✅ Itemized Bill Splitting: Enter what each person ordered - no more dividing bills evenly when some ordered more.
 
 ✅ Support for Groups: Split bills between any number of people.
 
